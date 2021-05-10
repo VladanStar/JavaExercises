@@ -3,10 +3,10 @@ package com.company;
 public class ComputerFactory {
     private static ComputerFactory instance = null;
 
-    public ComputerFactory() {
+    private ComputerFactory() {
     }
 
-    public static ComputerFactory getInstance() {
+    private static ComputerFactory getInstance() {
         if (instance == null) {
             instance = new ComputerFactory();
         }

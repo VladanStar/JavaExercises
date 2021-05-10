@@ -16,16 +16,19 @@ public class Server extends Computer {
 
     @Override
     public String getRam() {
+
         return this.Ram;
     }
 
     @Override
     public String getHDD() {
+
         return this.HDD;
     }
 
     @Override
     public String getCPU() {
+
         return this.CPU;
     }
 }

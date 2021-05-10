@@ -16,6 +16,7 @@ public class PC extends Computer {
 
     @Override
     public String getRam() {
+
         return this.Ram;
     }
 
@@ -26,6 +27,7 @@ public class PC extends Computer {
 
     @Override
     public String getCPU() {
+
         return this.CPU;
     }
 }
