@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="725c8d77-6d22-43d8-8efe-fe0c12713075" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/ComputerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ComputerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620588555808</updated>
       <workItem from="1620588563304" duration="6124000" />
-      <workItem from="1620621133403" duration="1843000" />
+      <workItem from="1620621133403" duration="2363000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;New commit with Pattern&quot;">
       <created>1620621475166</created>

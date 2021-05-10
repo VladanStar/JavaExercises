@@ -6,7 +6,7 @@ public class ComputerFactory {
     private ComputerFactory() {
     }
 
-    private static ComputerFactory getInstance() {
+    public static ComputerFactory getInstance() {
         if (instance == null) {
             instance = new ComputerFactory();
         }
